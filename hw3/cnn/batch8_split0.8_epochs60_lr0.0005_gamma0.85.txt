@@ -1,0 +1,2 @@
+best_epoch,best_valid_loss,best_valid_acc,best_test_loss,best_test_acc
+23,0.03212419307231903,0.992,0.021215508112311363,0.9926
